@@ -1,3 +1,6 @@
+" Vim compiler file
+" Compiler:     go
+
 if exists("current_compiler")
   finish
 endif
